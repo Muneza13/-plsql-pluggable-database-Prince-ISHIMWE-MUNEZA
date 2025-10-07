@@ -3,7 +3,7 @@ Oracle Pluggable Database (PDB)  Report
 **Course:** Database Development with PL/SQL (INSY 8311)   
 **Institution**: Adventist University of Central Africa (AUCA)  
 **Instructor**: Eric Maniraguha  
-**Assignment**: Individual Assignment I -  
+**Assignment**: Individual Assignment II
 **Submission Date**: 7 October, 2025
 
 Executive Summary
