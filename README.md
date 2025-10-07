@@ -1,8 +1,10 @@
 Oracle Pluggable Database (PDB)  Report
-Student Name: Prince Ishimwe Muneza
-Student ID: 27816
-Date: tuesday, 7 October 2025
-
+**Author:** Prince ISHIMWE MUNEZA
+**Course:** Database Development with PL/SQL (INSY 8311)   
+**Institution**: Adventist University of Central Africa (AUCA)  
+**Instructor**: Eric Maniraguha  
+**Assignment**: Individual Assignment I -  
+**Submission Date**: 7 October, 2025
 
 Executive Summary
 This report documents the completion of three tasks involving Oracle Pluggable Database (PDB) management: creating a working PDB for coursework, creating and deleting a temporary PDB, and configuring Oracle Enterprise Manager (OEM) for database monitoring.
