@@ -109,4 +109,4 @@ For any questions regarding this submission:
 Email: ishimwemunezaprince@gmail.com
 phone: 250798552735
 
-"WE MUST LIVE IN FAITH IN EVERYTHING "
+Hebrews 11:1: "Now faith is the assurance of things hoped for, the conviction of things not seen".
